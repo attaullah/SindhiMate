@@ -66,6 +66,11 @@ This project would not have been possible without the incredible support of:
 - **Muhammad Hamza Shaikh**
 - **Hamna Rajput**
 
+<a href="https://github.com/attaullah/SindhiMate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=attaullah/SindhiMate" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 
